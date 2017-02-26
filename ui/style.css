@@ -20,3 +20,13 @@ body {
     height: 200px;
 }
 
+.rvr{
+    text-align: center;
+    max-width:800px;
+    color:cyan;
+    font-family: sans-serif;
+    padding-top:20px;
+    padding-left:20px;
+    padding-right:20px;
+}
+
